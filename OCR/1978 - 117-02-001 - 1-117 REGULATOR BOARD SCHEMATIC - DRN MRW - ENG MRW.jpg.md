@@ -39,7 +39,7 @@ Wiki page: [M117](../../../../PAGES/M117.md)
 - **Title block:** (349, 0)–(432, 31) mm: WBS WARO-BECK systeMs · -117 · REGULATOR BOARD · CKD · chemATIC · Scale · ISSUE
 - **Wiring (first pass):** 63 connected wire groups from 550 runs; labelled ends: 463 mm → 744037; 281 mm → 8860; 275 mm → 0872, R49; 228 mm → WARO-BECK systeMs, WBS; 131 mm → 8860, 8k, I83k
 
-Every curve, box, word and wire group: [1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW (traced).json](../SCHEMATICS/1978%20-%20117-02-001%20-%201-117%20REGULATOR%20BOARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20(traced).json) (the CAD file: `1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW (traced).json](../SCHEMATICS/1978%20-%20117-02-001%20-%201-117%20REGULATOR%20BOARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20%28traced%29.json) (the CAD file: `1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW (traced).dxf`).
 
 ## Full text
 
