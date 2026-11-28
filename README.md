@@ -1,23 +1,17 @@
-# M117 Regulator Board · Unsorted
+# M117 Regulator Board · Power
 
 Ward-Beck Systems M117, 1978|11. Wiki page: [M117 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M117.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 1 |
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
-
-Not on Google Drive yet: `1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW.jpg`
 
 ## KiCad
 
@@ -25,7 +19,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW.kicad_sch](KICAD/1978%20-%20117-02-001%20-%201-117%20REGULATOR%20BOARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW.kicad_sch)
 - [M117.kicad_sym](KICAD/M117.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
