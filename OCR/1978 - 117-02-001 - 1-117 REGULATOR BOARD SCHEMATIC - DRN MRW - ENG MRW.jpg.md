@@ -1,5 +1,5 @@
 # 1978 - 117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW.jpg
-Wiki page: [M117](../../../../PAGES/M117.md)
+Wiki page: [M117](../)
 
 
 - **Year:** 1978 (title block date)

@@ -1,6 +1,6 @@
 # M117 Regulator Board · Power
 
-Ward-Beck Systems M117, 1978|11. Wiki page: [M117 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M117.html)
+Ward-Beck Systems M117, 1978|11. Wiki page: [M117 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M117-Regulator-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|
